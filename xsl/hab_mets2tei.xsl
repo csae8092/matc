@@ -37,7 +37,7 @@
                     <xsl:variable name="cur_nr">
                         <xsl:value-of select="substring-after(data(@ID), '_')"/>
                     </xsl:variable>
-                    <surface xml:id="{concat('facs__', $cur_nr)}">
+                    <surface xml:id="{concat('facs__', $cur_nr)}"  n="{$pb_name}">
                         <graphic url="{concat($base_url, $cur_nr, '.jpg')}"/>
                     </surface>
                 </xsl:for-each>
