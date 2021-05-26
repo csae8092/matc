@@ -137,6 +137,7 @@
             <pb n="15r" xml:id="page__00039" facs="#facs__00039"/>
             <pb n="15v" xml:id="page__00040" facs="#facs__00040"/>
             <pb n="16r" xml:id="page__00041" facs="#facs__00041"/>
+            <p>et concepte turbes<note place="margin-left" facs="#zone.wm4_hqv_spb">hier kommt dann die Transkription der Margin</note> munital</p>
             <pb n="16v" xml:id="page__00042" facs="#facs__00042"/>
             <pb n="17r" xml:id="page__00043" facs="#facs__00043"/>
             <pb n="17v" xml:id="page__00044" facs="#facs__00044"/>
@@ -460,6 +461,7 @@
       </surface>
       <surface xml:id="facs__00041" n="16r">
          <graphic url="http://diglib.hab.de/mss/32-weiss/00041.jpg"/>
+         <zone xml:id="zone.wm4_hqv_spb" ulx="50" uly="163" lrx="259" lry="386"/>
       </surface>
       <surface xml:id="facs__00042" n="16v">
          <graphic url="http://diglib.hab.de/mss/32-weiss/00042.jpg"/>
