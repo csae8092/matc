@@ -106,7 +106,7 @@
    </teiHeader>
    <text>
       <body>
-         <div>
+         <div type="work" n="004">
             <pb n="VD" xml:id="page__00001" facs="#facs__00001"/>
             <pb n="VS" xml:id="page__00002" facs="#facs__00002"/>
             <pb n="Ir" xml:id="page__00003" facs="#facs__00003"/>
@@ -118,6 +118,12 @@
             <pb n="IVr" xml:id="page__00009" facs="#facs__00009"/>
             <pb n="IVv" xml:id="page__00010" facs="#facs__00010"/>
             <pb n="1r" xml:id="page__00011" facs="#facs__00011"/>
+               <div type="volume" n="004v2">
+                  <div type="topic" n="01">
+                     <p>
+            <lb n="1"/>Priscianus Caesariensis grammaticus Iuliano consuli ac patricio. cum omnis eloquentiae doctrinam et omne studiorum genus <lb n="2"/>sapientiae luce praefulgens a Graecorum fontibus deriuatum Latinos proprio <lb n="3"/>sermone inuenio celebrasse et in omnibus illorum uestigia liberalibus <lb n="4"/>consecutos artibus uideo, nec solum ea, quae emendate ab illis sunt prolata, sed <lb n="5"/>etiam quosdam errores eorum amore doctorum deceptos imitari, in quibus <lb n="6"/>maxime uetustissima grammatica ars arguitur peccasse, cuius auctores, <lb n="7"/>quanto sunt iuniores, tanto perspicaciores, et ingeniis floruisse et <lb n="8"/>diligentia ualuisse omnium iudicio confirmantur eruditissimorum (quid enim <lb n="9"/>Herodiani artibus certius, quid Apollonii scrupulosis quaestionibus <lb n="10"/>enucleatius possit inueniri?) cum igitur eos omnia fere uitia, quaecumque <lb n="11"/>antiquorum Graecorum commentariis sunt relicta artis grammaticae, <lb n="12"/>expurgasse comperio certisque rationis legibus emendasse, nostrorum autem <lb n="13"/>neminem post illos imitatorem eorum extitisse, quippe in neglegentiam
+                        <lb n="1"/>cadentibus studiis literarum propter inopiam scriptorum, quamuis audacter, <lb n="2"/>sed non impudenter, ut puto, conatus sum pro uiribus rem arduam <lb n="3"/>quidem, sed officio professionis non indebitam, supra nominatorum praecepta <lb n="4"/>uirorum, quae congrua sunt uisa, in Latinum transferre sermonem, collectis <lb n="5"/>etiam omnibus fere, quaecumque necessaria nostrorum quoque inueniuntur <lb n="6"/>artium commentariis grammaticorum, quod gratum fore credidi <lb n="7"/>temperamentum, si ex utriusque linguae moderatoribus elegantiora in unum <lb n="8"/>coeant corpus meo labore faciente, quia nec uituperandum me esse credo, si <lb n="9"/>eos imitor, qui principatum inter scriptores Graios artis grammaticae <lb n="10"/>possident, cum ueteres nostri in erroribus etiam, ut dictum est, Graecos <lb n="11"/>aequiperantes maximam tamen laudem sunt consecuti. <lb n="12"/>exemplum etiam proponere placuit, ne pigeat alios etiam a me uel <lb n="13"/>ignorantia forte praetermissa uel uitiose dicta (nihil enim ex omni parte <lb n="14"/>perfectum in humanis inuentionibus esse posse credo) sua quoque <lb n="15"/>industria ad communem literatoriae professionis utilitatem congrua rationis <lb n="16"/>proportione uel addere uel mutare tractantes. namque festinantius quam <lb n="17"/>uolui hos edere me libros compulerunt, qui alienis laboribus insidiantes <lb n="18"/>furtimque et quasi per latrocinia scripta aliis subripientes unius nominis ad <lb n="19"/>titulum pertinentis infanda mutatione totius operis in se gloriam transferre <lb n="20"/>conantur. sed quoniam in tanta operis materia impossibile est aliquid <lb n="21"/>perfectum breuiter exponi, spatii quoque ueniam peto, quamuis ad <lb n="22"/>Herodiani scriptorum pelagus et ad eius patris Apollonii spatiosa uolumina <lb n="23"/>meorum compendiosa sunt existimanda scripta librorum. <lb n="24"/>huius tamen operis te hortatorem sortitus iudicem quoque facio, <lb n="25"/>Iuliane consul ac patricie, cui summos dignitatis gradus summa <lb n="26"/>adquisiuit in omni studio ingenii claritudo, non tantum accipiens ab excelsis <lb n="27"/>gradibus honorum pretii, quantum illis decoris addens tui, cuius mentem <lb n="28"/>tam Homeri credo quam Virgilii anima constare, quorum uterque <lb n="29"/>arcem possederat musicae, te tertium ex utroque compositum esse <lb n="30"/>confirmans, quippe non minus Graecorum quam Latinorum in omni doctrinae <lb n="31"/>genere praefulgentem. tibi ergo hoc opus deuoueo, omnis eloquentiae
+                        </p>
             <pb n="1v" xml:id="page__00012" facs="#facs__00012"/>
             <pb n="2r" xml:id="page__00013" facs="#facs__00013"/>
             <pb n="2v" xml:id="page__00014" facs="#facs__00014"/>
@@ -125,6 +131,8 @@
             <pb n="3v" xml:id="page__00016" facs="#facs__00016"/>
             <pb n="4r" xml:id="page__00017" facs="#facs__00017"/>
             <pb n="4v" xml:id="page__00018" facs="#facs__00018"/>
+                  </div>
+               </div>
             <pb n="5r" xml:id="page__00019" facs="#facs__00019"/>
             <pb n="5v" xml:id="page__00020" facs="#facs__00020"/>
             <pb n="6r" xml:id="page__00021" facs="#facs__00021"/>
